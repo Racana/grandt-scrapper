@@ -2,6 +2,7 @@ import argparse
 from selenium import webdriver
 from selenium.common.exceptions import ElementClickInterceptedException
 import time
+from tenacity import *
 
 parser = argparse.ArgumentParser(description='Webscraper para el diario deportivo Ole, obtiendo datos de la superliga')
 parser.add_argument('--jornada', 
@@ -14,27 +15,28 @@ parser.add_argument('--jornada',
 args = parser.parse_args()
 jornada = args.jornada
 
+@retry(wait=wait_fixed(3), stop=stop_after_attempt(10))
+def retry_click(element):
+    element.click()
+
+# Como Ole tiene un fixed header, tenemos que scrollear un poco menos que donde se encuentra el elemento
+def scroll_to_element(element, driver):
+    y = element.location['y'] - 200
+    driver.execute_script("window.scrollTo(0,{})".format(y))
+
 def select_jornada(jornada, driver):
     ### Identificar jornada actuala
 
     jornada_dropdown = driver.find_element_by_xpath('//div[@class="opta-dropdown"]')
     fecha_jornada = int(jornada_dropdown.text.split(' ')[1])
-    driver.execute_script("arguments[0].scrollIntoView();", jornada_dropdown)
+
+    scroll_to_element(jornada_dropdown, driver)
 
     if fecha_jornada != jornada:
         
-        for attempt in range(3): #En momentos tenemos publicidad en toda la pantalla, por lo que tenemos que esperar que desaparezca
-            try: 
-                jornada_dropdown.click()
-            except ElementClickInterceptedException:
-                time.sleep(4)
-            else: 
-                break
-        else:
-            print('No fue posible seleccionar la jornada')
-
+        retry_click(jornada_dropdown)
         jornada_select = driver.find_element_by_xpath(f'//*[contains(text(), "Jornada {jornada}")]')
-        driver.execute_script("arguments[0].scrollIntoView();", jornada_select)
+        scroll_to_element(jornada_select, driver)
         jornada_select.click()
 
         print(f'jornada {jornada} fue seleccionada')
