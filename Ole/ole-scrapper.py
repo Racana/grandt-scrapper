@@ -1,27 +1,30 @@
 import argparse
 from selenium import webdriver
 from selenium.common.exceptions import ElementClickInterceptedException
-import time
+from selenium.common.exceptions import NoSuchElementException
+from time import sleep
 from tenacity import *
 from datetime import datetime
 import pandas as pd
 import locale
 import numpy as np
-import random
+from random import random
 
 parser = argparse.ArgumentParser(description='Webscraper para el diario deportivo Ole, obtiendo datos de la superliga')
 parser.add_argument('--jornada', 
                     type=int, 
                     help='Indicar la Jornada que vamos a obtener los datos',
                     required=True)
-## Pipeline #1, en caso de que no se indica la jornada hacer el scraping a todo el torneo
-## Pipeline #2, que busque en la base de datos la última fecha que se tiene información
+## Nicetohave #1, en caso de que no se indica la jornada hacer el scraping a todo el torneo
+## Nicetohave #2, que busque en la base de datos la última fecha que se tiene información
+## Nicetohave #3, agregar modo append en la linea de comandos
+## Nicetohave #4, incluir multithreading para visitar varias páginas a la ves
 
 args = parser.parse_args()
 jornada = args.jornada
 
-locale.setlocale(locale.LC_ALL, 'esp_esp')
-source = r'C:\Users\El_Ra\Google Drive\GranDT\grandt-scrapper\Driver\chromedriver.exe'
+locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
+source = '/home/racana/Desktop/grandt-scrapper/Driver/chromedriver'
 page = 'https://www.ole.com.ar/estadisticas/futbol/primera-division.html' ## podemos cambiar la url para obtener datos de otras temporadas
 
 datos_partido = []
@@ -84,10 +87,11 @@ def datos_partido_func(driver, match):
     detalles_partido = driver.find_element_by_xpath("//div[@class='match-details']/dl")
     detalles_partido_lista = detalles_partido.find_elements_by_xpath(".//dd")
     
+    print(f'obteniendo datos de {equipo_local} vs {equipo_visitante}')
 
     torneo = detalles_partido_lista[0].text
     fecha_string = '.'.join(detalles_partido_lista[1].text.split(' '))
-    fecha = datetime.strptime(fecha_string, '%d.%b%Y.%H:%M')
+    fecha = datetime.strptime(fecha_string, '%d.%b.%Y.%H:%M')
     arbitro = detalles_partido_lista[2].text
     estadio = detalles_partido_lista[3].text
 
@@ -103,7 +107,7 @@ def eventos_partido_func(driver, data_eventos):
     eventos_visita = driver.find_elements_by_xpath("//select[@class='event-selection away']/option")
     total_eventos = eventos_local[1:] + eventos_visita[1:]
     for evento in total_eventos:
-        time.sleep(random())
+        sleep(random())
 
         retry_click(evento)
         if evento in eventos_local:
@@ -125,6 +129,7 @@ def eventos_partido_func(driver, data_eventos):
 
 def run(data_eventos):
     driver = webdriver.Chrome(source)
+    driver.implicitly_wait(10)
     driver.maximize_window()
 
     driver.get(page)
@@ -133,14 +138,23 @@ def run(data_eventos):
     match_list = match_list_func(driver)
 
     for match in match_list:
-        driver.get(match)
-        datos_partido.append(datos_partido_func(driver, match))
+        try:
+            driver.get(match)
+            datos_partido.append(datos_partido_func(driver, match))
+        except NoSuchElementException:
+            print('Unable to locate an element')
+            driver.refresh()
+            sleep(5)
+            datos_partido.append(datos_partido_func(driver, match))
+        except Exception as e:
+            print('Error! Code: {c}, Message, {m}'.format(c = type(e).__name__, m = str(e)))
         data_eventos = eventos_partido_func(driver, data_eventos)
     
     df_datos_partido = pd.DataFrame(data=datos_partido, columns=columns_datos_partido)
-    df_datos_partido.to_csv('datos_partido.csv', index=False)
+    df_datos_partido.to_csv('datos_partido.csv', index=False, mode='a', header=False)
 
-    data_eventos.to_csv('data_eventos.csv', index=False)
+    data_eventos.to_csv('data_eventos.csv', index=False, mode='a', header=False)
+    driver.quit()
 
 if __name__ == '__main__':
     run(data_eventos)
