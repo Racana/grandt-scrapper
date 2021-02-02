@@ -26,10 +26,10 @@ jornada = args.jornada
 
 locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 source = '/home/racana/Desktop/grandt-scrapper/Driver/chromedriver'
-page = 'https://www.ole.com.ar/estadisticas/futbol/primera-division.html' ## podemos cambiar la url para obtener datos de otras temporadas
+page = 'https://www.ole.com.ar/estadisticas/futbol/primera-division.html?competition=724&season=2019' ## podemos cambiar la url para obtener datos de otras temporadas
 
 datos_partido = []
-columns_datos_partido = ['jornada', 'match_id', 'equipo local', 'equipo_visitante', 
+columns_datos_partido = ['season', 'jornada', 'match_id', 'equipo local', 'equipo_visitante', 'tecnico_local', 'tecnico_visitante', 
                         'ole_id_local', 'ole_id_visita', 'arbitro', 'estadio', 'fecha', 
                         'goles_local', 'goles_visita', 'resultado']
 
@@ -74,7 +74,7 @@ def select_jornada(jornada, driver):
     if fecha_jornada != jornada:
         
         retry_click(jornada_dropdown)
-        jornada_select = driver.find_element_by_xpath(f'//*[contains(text(), "Jornada {jornada}")]')
+        jornada_select = driver.find_element_by_xpath(f'//*[text()="Jornada {jornada}"]')
         scroll_to_element(jornada_select, driver)
         jornada_select.click()
 
@@ -115,7 +115,13 @@ def datos_partido_func(driver, match):
     goles_visita = int(resultado_partido.split(" - ")[1])
     resultado = 'local' if goles_local > goles_visita else 'visitante' if goles_visita > goles_local else 'empate'
 
-    return (jornada, match_id, equipo_local, equipo_visitante, ole_id_local, ole_id_visita, arbitro, estadio, fecha, goles_local, goles_visita, resultado)
+    lineup_coach = driver.find_elements_by_xpath('//div[@class="lineup-coach"]/dl/dd')
+
+    tecnico_local = lineup_coach[0].text  
+    tecnico_visitante = lineup_coach[1].text
+    season = page.split('=')[-1]
+
+    return (season, jornada, match_id, equipo_local, equipo_visitante, tecnico_local, tecnico_visitante, ole_id_local, ole_id_visita, arbitro, estadio, fecha, goles_local, goles_visita, resultado)
 
 def eventos_partido_func(driver, data_eventos):
     eventos_local = driver.find_elements_by_xpath("//select[@class='event-selection home']/option")
@@ -165,7 +171,7 @@ def get_players(driver):
             link = jugador.get_attribute('href')
             name = jugador.text
             players[name] = [titular, local, link]
-        return players
+    return players
 
 def player_data(driver, name, data):
     print(f'bajando datos del jugador {name}')
@@ -261,6 +267,8 @@ def player_data(driver, name, data):
 
 
 def run(data_eventos, exception):
+    start_time = datetime.now()
+    
     driver = webdriver.Chrome(source)
     driver.implicitly_wait(10)
     driver.maximize_window()
@@ -301,6 +309,9 @@ def run(data_eventos, exception):
 
     df_data_jugadores = pd.DataFrame(datos_jugadores, columns=colnames)
     df_data_jugadores.to_csv('data_jugadores.csv', index=False, mode='a')
+    
+    end_time = datetime.now() - start_time
+    print(f'jornada {jornada} se completo satisfactoriamente en: {end_time}')
     
     driver.quit()
 

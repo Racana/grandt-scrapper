@@ -1,37 +1,302 @@
-jornada,match_id,equipo local,equipo_visitante,ole_id_local,ole_id_visita,arbitro,estadio,fecha,goles_local,goles_visita,resultado
-1,2173070,Gimnasia La Plata,Patronato,1392,8628,DIEGO ABAL,JUAN CARMELO ZERILLO (EL BOSQUE),2020-10-30 19:00:00,3,0,local
-1,2173045,Talleres de Córdoba,Newell's Old Boys,1071,1095,DARÍO HERRERA,MARIO ALBERTO KEMPES,2020-10-30 21:15:00,3,1,local
-1,2173056,Aldosivi,Estudiantes de La Plata,8621,927,JORGE BALIÑO,JOSÉ MARÍA MINELLA,2020-10-31 14:00:00,0,0,empate
-1,2173069,Vélez Sarsfield,Huracán,570,2578,FACUNDO TELLO,JOSÉ AMALFITANI,2020-10-31 16:15:00,1,1,empate
-1,2173057,Argentinos Juniors,San Lorenzo,846,2549,PABLO ECHAVARRÍA,DIEGO ARMANDO MARADONA,2020-10-31 18:45:00,0,0,empate
-1,2173044,Lanús,Boca Juniors,2473,540,FERNANDO RAPALLINI,CIUDAD DE LANÚS,2020-10-31 21:15:00,1,2,visitante
-1,2173022,Defensa y Justicia,Colón Santa Fe,8625,1027,ARIEL PENEL,NORBERTO TOMAGHELLO,2020-11-01 11:00:00,0,3,visitante
-1,2173009,Unión Santa Fe,Arsenal de Sarandí,6374,2577,SILVIO TRUCCO,15 DE ABRIL,2020-11-01 14:00:00,0,0,empate
-1,2173008,Racing Club,Atlético Tucumán,986,4671,NÉSTOR FABIÁN PITANA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-11-01 16:15:00,1,4,visitante
-1,2173023,Central Córdoba (Santiago del Estero),Independiente,10752,1243,PABLO DÓVALO,ALFREDO TERRERA,2020-11-01 18:45:00,0,1,visitante
-1,2173032,Rosario Central,Godoy Cruz,745,2834,HERNÁN MASTRÁNGELO,GIGANTE DE ARROYITO,2020-11-02 21:15:00,2,1,local
-1,2173033,River Plate,Banfield,608,2451,GERMÁN DELFINO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-03 21:00:00,1,3,visitante
-2,2173072,Patronato,Huracán,8628,2578,NAZARENO ARASA,PRESBÍTERO BARTOLOMÉ GRELLA,2020-11-06 19:00:00,1,2,visitante
-2,2173059,Argentinos Juniors,Aldosivi,846,8621,GERMÁN DELFINO,DIEGO ARMANDO MARADONA,2020-11-06 21:15:00,0,1,visitante
-2,2173035,Banfield,Godoy Cruz,2451,2834,ARIEL PENEL,FLORENCIO SOLÁ,2020-11-07 16:00:00,1,0,local
-2,2173060,San Lorenzo,Estudiantes de La Plata,2549,927,FERNANDO ESPINOZA,NUEVO GASÓMETRO,2020-11-07 18:30:00,2,0,local
-2,2173034,River Plate,Rosario Central,608,745,FACUNDO TELLO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-07 21:15:00,2,1,local
-2,2173011,Arsenal de Sarandí,Atlético Tucumán,2577,4671,LEANDRO REY HILFER,JULIO HUMBERTO GRONDONA,2020-11-08 11:00:00,1,2,visitante
-2,2173071,Gimnasia La Plata,Vélez Sarsfield,1392,570,PATRICIO LOUSTAU,JUAN CARMELO ZERILLO (EL BOSQUE),2020-11-08 16:15:00,2,2,empate
-2,2173010,Unión Santa Fe,Racing Club,6374,986,JORGE BALIÑO,15 DE ABRIL,2020-11-08 18:45:00,2,0,local
-2,2173047,Newell's Old Boys,Boca Juniors,1095,540,MAURO VIGLIANO,MARCELO BIELSA,2020-11-08 21:15:00,0,2,visitante
-2,2173025,Independiente,Colón Santa Fe,1243,1027,SILVIO TRUCCO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-09 17:00:00,1,1,empate
-2,2173046,Talleres de Córdoba,Lanús,1071,2473,YAEL FALCÓN PÉREZ,MARIO ALBERTO KEMPES,2020-11-09 19:15:00,1,1,empate
-2,2173024,Central Córdoba (Santiago del Estero),Defensa y Justicia,10752,8625,PABLO ECHAVARRÍA,ALFREDO TERRERA,2020-11-09 21:30:00,2,2,empate
-3,2173036,Rosario Central,Banfield,745,2451,DIEGO ABAL,GIGANTE DE ARROYITO,2020-11-13 19:00:00,2,4,visitante
-3,2173013,Atlético Tucumán,Unión Santa Fe,4671,6374,NAZARENO ARASA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-11-13 21:15:00,3,1,local
-3,2173061,Aldosivi,San Lorenzo,8621,2549,LUCAS COMESAÑA,JOSÉ MARÍA MINELLA,2020-11-14 14:00:00,1,4,visitante
-3,2173048,Lanús,Newell's Old Boys,2473,1095,PABLO DÓVALO,CIUDAD DE LANÚS,2020-11-14 16:15:00,2,4,visitante
-3,2173012,Racing Club,Arsenal de Sarandí,986,2577,PABLO ECHAVARRÍA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-11-14 18:45:00,0,2,visitante
-3,2173037,Godoy Cruz,River Plate,2834,608,DARÍO HERRERA,MALVINAS ARGENTINAS (MENDOZA),2020-11-14 21:15:00,0,1,visitante
-3,2173074,Huracán,Gimnasia La Plata,2578,1392,ARIEL PENEL,TOMÁS ADOLFO DUCÓ,2020-11-15 14:00:00,3,2,local
-3,2173062,Estudiantes de La Plata,Argentinos Juniors,927,846,NÉSTOR FABIÁN PITANA,JORGE LUIS HIRSCHI,2020-11-15 16:15:00,0,1,visitante
-3,2173026,Defensa y Justicia,Independiente,8625,1243,ANDRÉS MERLOS,NORBERTO TOMAGHELLO,2020-11-15 18:45:00,0,0,empate
-3,2173049,Boca Juniors,Talleres de Córdoba,540,1071,GERMÁN DELFINO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-11-15 21:15:00,0,1,visitante
-3,2173073,Vélez Sarsfield,Patronato,570,8628,HERNÁN MASTRÁNGELO,JOSÉ AMALFITANI,2020-11-16 19:00:00,1,0,local
-3,2173027,Colón Santa Fe,Central Córdoba (Santiago del Estero),1027,10752,JORGE BALIÑO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-11-16 21:15:00,2,0,local
+season,jornada,match_id,equipo local,equipo_visitante,tecnico_local,tecnico_visitante,ole_id_local,ole_id_visita,arbitro,estadio,fecha,goles_local,goles_visita,resultado
+2020,1,2173070,Gimnasia La Plata,Patronato,Diego Maradona,Gustavo Álvarez,1392,8628,DIEGO ABAL,JUAN CARMELO ZERILLO (EL BOSQUE),2020-10-30 19:00:00,3,0,local
+2020,1,2173045,Talleres de Córdoba,Newell's Old Boys,Alexander Medina,Frank Kudelka,1071,1095,DARÍO HERRERA,MARIO ALBERTO KEMPES,2020-10-30 21:15:00,3,1,local
+2020,1,2173056,Aldosivi,Estudiantes de La Plata,Guillermo Hoyos,Leandro Desábato,8621,927,JORGE BALIÑO,JOSÉ MARÍA MINELLA,2020-10-31 14:00:00,0,0,empate
+2020,1,2173069,Vélez Sarsfield,Huracán,Mauricio Pellegrino,Israel Damonte,570,2578,FACUNDO TELLO,JOSÉ AMALFITANI,2020-10-31 16:15:00,1,1,empate
+2020,1,2173057,Argentinos Juniors,San Lorenzo,Diego Dabove,Mariano Soso,846,2549,PABLO ECHAVARRÍA,DIEGO ARMANDO MARADONA,2020-10-31 18:45:00,0,0,empate
+2020,1,2173044,Lanús,Boca Juniors,Luis Zubeldía,Miguel Ángel Russo,2473,540,FERNANDO RAPALLINI,CIUDAD DE LANÚS,2020-10-31 21:15:00,1,2,visitante
+2020,1,2173022,Defensa y Justicia,Colón Santa Fe,Hernan Crespo,Eduardo Domínguez,8625,1027,ARIEL PENEL,NORBERTO TOMAGHELLO,2020-11-01 11:00:00,0,3,visitante
+2020,1,2173009,Unión Santa Fe,Arsenal de Sarandí,Juan Manuel Azconzábal,Sergio Rondina,6374,2577,SILVIO TRUCCO,15 DE ABRIL,2020-11-01 14:00:00,0,0,empate
+2020,1,2173008,Racing Club,Atlético Tucumán,Sebastián Beccacece,Ricardo Zielinski,986,4671,NÉSTOR FABIÁN PITANA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-11-01 16:15:00,1,4,visitante
+2020,1,2173023,Central Córdoba (Santiago del Estero),Independiente,Alfredo Berti,Lucas Pusineri,10752,1243,PABLO DÓVALO,ALFREDO TERRERA,2020-11-01 18:45:00,0,1,visitante
+2020,1,2173032,Rosario Central,Godoy Cruz,Cristian González,Diego Martínez,745,2834,HERNÁN MASTRÁNGELO,GIGANTE DE ARROYITO,2020-11-02 21:15:00,2,1,local
+2020,1,2173033,River Plate,Banfield,Marcelo Gallardo,Javier Sanguinetti,608,2451,GERMÁN DELFINO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-03 21:00:00,1,3,visitante
+2020,2,2173072,Patronato,Huracán,Gustavo Álvarez,Israel Damonte,8628,2578,NAZARENO ARASA,PRESBÍTERO BARTOLOMÉ GRELLA,2020-11-06 19:00:00,1,2,visitante
+2020,2,2173059,Argentinos Juniors,Aldosivi,Diego Dabove,Guillermo Hoyos,846,8621,GERMÁN DELFINO,DIEGO ARMANDO MARADONA,2020-11-06 21:15:00,0,1,visitante
+2020,2,2173035,Banfield,Godoy Cruz,Javier Sanguinetti,Diego Martínez,2451,2834,ARIEL PENEL,FLORENCIO SOLÁ,2020-11-07 16:00:00,1,0,local
+2020,2,2173060,San Lorenzo,Estudiantes de La Plata,Mariano Soso,Leandro Desábato,2549,927,FERNANDO ESPINOZA,NUEVO GASÓMETRO,2020-11-07 18:30:00,2,0,local
+2020,2,2173034,River Plate,Rosario Central,Marcelo Gallardo,Cristian González,608,745,FACUNDO TELLO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-07 21:15:00,2,1,local
+2020,2,2173011,Arsenal de Sarandí,Atlético Tucumán,Sergio Rondina,Ricardo Zielinski,2577,4671,LEANDRO REY HILFER,JULIO HUMBERTO GRONDONA,2020-11-08 11:00:00,1,2,visitante
+2020,2,2173071,Gimnasia La Plata,Vélez Sarsfield,Sebastián Méndez,Mauricio Pellegrino,1392,570,PATRICIO LOUSTAU,JUAN CARMELO ZERILLO (EL BOSQUE),2020-11-08 16:15:00,2,2,empate
+2020,2,2173010,Unión Santa Fe,Racing Club,Juan Manuel Azconzábal,Sebastián Beccacece,6374,986,JORGE BALIÑO,15 DE ABRIL,2020-11-08 18:45:00,2,0,local
+2020,2,2173047,Newell's Old Boys,Boca Juniors,Frank Kudelka,Miguel Ángel Russo,1095,540,MAURO VIGLIANO,MARCELO BIELSA,2020-11-08 21:15:00,0,2,visitante
+2020,2,2173025,Independiente,Colón Santa Fe,Lucas Pusineri,Eduardo Domínguez,1243,1027,SILVIO TRUCCO,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-09 17:00:00,1,1,empate
+2020,2,2173046,Talleres de Córdoba,Lanús,Alexander Medina,Luis Zubeldía,1071,2473,YAEL FALCÓN PÉREZ,MARIO ALBERTO KEMPES,2020-11-09 19:15:00,1,1,empate
+2020,2,2173024,Central Córdoba (Santiago del Estero),Defensa y Justicia,Alfredo Berti,Hernan Crespo,10752,8625,PABLO ECHAVARRÍA,ALFREDO TERRERA,2020-11-09 21:30:00,2,2,empate
+2020,3,2173036,Rosario Central,Banfield,Cristian González,Javier Sanguinetti,745,2451,DIEGO ABAL,GIGANTE DE ARROYITO,2020-11-13 19:00:00,2,4,visitante
+2020,3,2173013,Atlético Tucumán,Unión Santa Fe,Ricardo Zielinski,Juan Manuel Azconzábal,4671,6374,NAZARENO ARASA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-11-13 21:15:00,3,1,local
+2020,3,2173061,Aldosivi,San Lorenzo,Guillermo Hoyos,Mariano Soso,8621,2549,LUCAS COMESAÑA,JOSÉ MARÍA MINELLA,2020-11-14 14:00:00,1,4,visitante
+2020,3,2173048,Lanús,Newell's Old Boys,Luis Zubeldía,Frank Kudelka,2473,1095,PABLO DÓVALO,CIUDAD DE LANÚS,2020-11-14 16:15:00,2,4,visitante
+2020,3,2173012,Racing Club,Arsenal de Sarandí,Sebastián Beccacece,Sergio Rondina,986,2577,PABLO ECHAVARRÍA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-11-14 18:45:00,0,2,visitante
+2020,3,2173037,Godoy Cruz,River Plate,Diego Martínez,Marcelo Gallardo,2834,608,DARÍO HERRERA,MALVINAS ARGENTINAS (MENDOZA),2020-11-14 21:15:00,0,1,visitante
+2020,3,2173074,Huracán,Gimnasia La Plata,Israel Damonte,Sebastián Méndez,2578,1392,ARIEL PENEL,TOMÁS ADOLFO DUCÓ,2020-11-15 14:00:00,3,2,local
+2020,3,2173062,Estudiantes de La Plata,Argentinos Juniors,Leandro Desábato,Diego Dabove,927,846,NÉSTOR FABIÁN PITANA,JORGE LUIS HIRSCHI,2020-11-15 16:15:00,0,1,visitante
+2020,3,2173026,Defensa y Justicia,Independiente,Hernan Crespo,Lucas Pusineri,8625,1243,ANDRÉS MERLOS,NORBERTO TOMAGHELLO,2020-11-15 18:45:00,0,0,empate
+2020,3,2173049,Boca Juniors,Talleres de Córdoba,Miguel Ángel Russo,Alexander Medina,540,1071,GERMÁN DELFINO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-11-15 21:15:00,0,1,visitante
+2020,3,2173073,Vélez Sarsfield,Patronato,Mauricio Pellegrino,Gustavo Álvarez,570,8628,HERNÁN MASTRÁNGELO,JOSÉ AMALFITANI,2020-11-16 19:00:00,1,0,local
+2020,3,2173027,Colón Santa Fe,Central Córdoba (Santiago del Estero),Eduardo Domínguez,Alfredo Berti,1027,10752,JORGE BALIÑO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-11-16 21:15:00,2,0,local
+2020,4,2173014,Atlético Tucumán,Racing Club,Ricardo Zielinski,Sebastián Beccacece,4671,986,DIEGO ABAL,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-11-19 21:15:00,2,0,local
+2020,4,2173015,Arsenal de Sarandí,Unión Santa Fe,Sergio Rondina,Juan Manuel Azconzábal,2577,6374,HERNÁN MASTRÁNGELO,JULIO HUMBERTO GRONDONA,2020-11-20 17:10:00,2,3,visitante
+2020,4,2173050,Boca Juniors,Lanús,Miguel Ángel Russo,Luis Zubeldía,540,2473,FACUNDO TELLO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-11-20 19:20:00,1,2,visitante
+2020,4,2173039,Banfield,River Plate,Javier Sanguinetti,Marcelo Gallardo,2451,608,FERNANDO RAPALLINI,FLORENCIO SOLÁ,2020-11-20 21:30:00,0,2,visitante
+2020,4,2173028,Colón Santa Fe,Defensa y Justicia,Eduardo Domínguez,Hernan Crespo,1027,8625,DARÍO HERRERA,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-11-21 17:10:00,2,0,local
+2020,4,2173075,Huracán,Vélez Sarsfield,Israel Damonte,Mauricio Pellegrino,2578,570,NICOLÁS LAMOLINA,TOMÁS ADOLFO DUCÓ,2020-11-21 19:20:00,1,2,visitante
+2020,4,2173029,Independiente,Central Córdoba (Santiago del Estero),Lucas Pusineri,Alfredo Berti,1243,10752,ARIEL PENEL,ESTADIO LIBERTADORES DE AMÉRICA,2020-11-21 21:30:00,0,0,empate
+2020,4,2173063,Estudiantes de La Plata,Aldosivi,Leandro Desábato,Guillermo Hoyos,927,8621,FERNANDO ECHENIQUE,JORGE LUIS HIRSCHI,2020-11-22 17:10:00,0,1,visitante
+2020,4,2173076,Patronato,Gimnasia La Plata,Gustavo Álvarez,Sebastián Méndez,8628,1392,PABLO ECHAVARRÍA,PRESBÍTERO BARTOLOMÉ GRELLA,2020-11-22 19:20:00,0,0,empate
+2020,4,2173064,San Lorenzo,Argentinos Juniors,Mariano Soso,Diego Dabove,2549,846,ANDRÉS MERLOS,NUEVO GASÓMETRO,2020-11-22 21:30:00,2,0,local
+2020,4,2173038,Godoy Cruz,Rosario Central,Diego Martínez,Cristian González,2834,745,NÉSTOR FABIÁN PITANA,MALVINAS ARGENTINAS (MENDOZA),2020-11-23 19:00:00,0,1,visitante
+2020,4,2173051,Newell's Old Boys,Talleres de Córdoba,Frank Kudelka,Alexander Medina,1095,1071,SILVIO TRUCCO,MARCELO BIELSA,2020-11-23 21:15:00,1,1,empate
+2020,5,2173016,Racing Club,Unión Santa Fe,Sebastián Beccacece,Juan Manuel Azconzábal,986,6374,ANDRÉS MERLOS,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-11-28 17:10:00,1,0,local
+2020,5,2173031,Colón Santa Fe,Independiente,Eduardo Domínguez,Lucas Pusineri,1027,1243,MAURO VIGLIANO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-11-28 19:20:00,1,2,visitante
+2020,5,2173077,Vélez Sarsfield,Gimnasia La Plata,Mauricio Pellegrino,Leandro Martini,570,1392,NÉSTOR FABIÁN PITANA,JOSÉ AMALFITANI,2020-11-28 19:20:00,0,1,visitante
+2020,5,2173041,Godoy Cruz,Banfield,Diego Martínez,Javier Sanguinetti,2834,2451,LUCAS COMESAÑA,MALVINAS ARGENTINAS (MENDOZA),2020-11-28 21:30:00,0,0,empate
+2020,5,2173040,Rosario Central,River Plate,Cristian González,Marcelo Gallardo,745,608,FERNANDO ECHENIQUE,GIGANTE DE ARROYITO,2020-11-28 21:30:00,0,2,visitante
+2020,5,2173030,Defensa y Justicia,Central Córdoba (Santiago del Estero),Hernan Crespo,Alfredo Berti,8625,10752,PATRICIO LOUSTAU,NORBERTO TOMAGHELLO,2020-11-29 17:10:00,2,3,visitante
+2020,5,2173053,Boca Juniors,Newell's Old Boys,Miguel Ángel Russo,Frank Kudelka,540,1095,FERNANDO ESPINOZA,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-11-29 19:20:00,2,0,local
+2020,5,2173078,Huracán,Patronato,Israel Damonte,Gustavo Álvarez,2578,8628,GERMÁN DELFINO,TOMÁS ADOLFO DUCÓ,2020-11-29 21:30:00,1,0,local
+2020,5,2173052,Lanús,Talleres de Córdoba,Luis Zubeldía,Alexander Medina,2473,1071,DARÍO HERRERA,CIUDAD DE LANÚS,2020-11-29 21:30:00,1,0,local
+2020,5,2173065,Aldosivi,Argentinos Juniors,Guillermo Hoyos,Diego Dabove,8621,846,FERNANDO RAPALLINI,JOSÉ MARÍA MINELLA,2020-11-30 17:10:00,1,4,visitante
+2020,5,2173017,Atlético Tucumán,Arsenal de Sarandí,Ricardo Zielinski,Sergio Rondina,4671,2577,JORGE BALIÑO,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-11-30 19:20:00,3,2,local
+2020,5,2173066,Estudiantes de La Plata,San Lorenzo,Leandro Desábato,Mariano Soso,927,2549,NICOLÁS LAMOLINA,JORGE LUIS HIRSCHI,2020-11-30 21:30:00,0,0,empate
+2020,6,2173021,Central Córdoba (Santiago del Estero),Colón Santa Fe,Alfredo Berti,Eduardo Domínguez,10752,1027,SILVIO TRUCCO,ALFREDO TERRERA,2020-12-04 19:20:00,0,2,visitante
+2020,6,2173042,Banfield,Rosario Central,Javier Sanguinetti,Cristian González,2451,745,ANDRÉS MERLOS,FLORENCIO SOLÁ,2020-12-04 21:30:00,1,1,empate
+2020,6,2173018,Arsenal de Sarandí,Racing Club,Sergio Rondina,Sebastián Beccacece,2577,986,MAURO VIGLIANO,JULIO HUMBERTO GRONDONA,2020-12-05 17:10:00,1,0,local
+2020,6,2173019,Unión Santa Fe,Atlético Tucumán,Juan Manuel Azconzábal,Ricardo Zielinski,6374,4671,FERNANDO ESPINOZA,15 DE ABRIL,2020-12-05 17:10:00,3,5,visitante
+2020,6,2173080,Gimnasia La Plata,Huracán,Leandro Martini,Israel Damonte,1392,2578,FERNANDO ECHENIQUE,JUAN CARMELO ZERILLO (EL BOSQUE),2020-12-05 19:20:00,0,0,empate
+2020,6,2173079,Patronato,Vélez Sarsfield,Gustavo Álvarez,Mauricio Pellegrino,8628,570,DARÍO HERRERA,PRESBÍTERO BARTOLOMÉ GRELLA,2020-12-05 19:20:00,0,0,empate
+2020,6,2173043,River Plate,Godoy Cruz,Marcelo Gallardo,Diego Martínez,608,2834,PABLO ECHAVARRÍA,ESTADIO LIBERTADORES DE AMÉRICA,2020-12-05 21:30:00,3,1,local
+2020,6,2173020,Independiente,Defensa y Justicia,Lucas Pusineri,Hernan Crespo,1243,8625,HERNÁN MASTRÁNGELO,ESTADIO LIBERTADORES DE AMÉRICA,2020-12-06 19:10:00,1,0,local
+2020,6,2173054,Newell's Old Boys,Lanús,Frank Kudelka,Luis Zubeldía,1095,2473,ARIEL PENEL,MARCELO BIELSA,2020-12-06 21:30:00,3,1,local
+2020,6,2173055,Talleres de Córdoba,Boca Juniors,Alexander Medina,Miguel Ángel Russo,1071,540,FERNANDO RAPALLINI,MARIO ALBERTO KEMPES,2020-12-06 21:30:00,0,0,empate
+2020,6,2173068,Argentinos Juniors,Estudiantes de La Plata,Diego Dabove,Leandro Desábato,846,927,PATRICIO LOUSTAU,DIEGO ARMANDO MARADONA,2020-12-07 19:10:00,1,0,local
+2020,6,2173067,San Lorenzo,Aldosivi,Mariano Soso,Guillermo Hoyos,2549,8621,NÉSTOR FABIÁN PITANA,NUEVO GASÓMETRO,2020-12-07 19:10:00,0,0,empate
+2020,7,2179781,Vélez Sarsfield,Racing Club,Mauricio Pellegrino,Sebastián Beccacece,570,986,PATRICIO LOUSTAU,JOSÉ AMALFITANI,2020-12-11 21:10:00,2,1,local
+2020,7,2179775,Colón Santa Fe,Gimnasia La Plata,Eduardo Domínguez,Leandro Martini,1027,1392,GERMÁN DELFINO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-12-12 17:10:00,0,2,visitante
+2020,7,2179782,Newell's Old Boys,Estudiantes de La Plata,Frank Kudelka,Leandro Desábato,1095,927,NÉSTOR FABIÁN PITANA,MARCELO BIELSA,2020-12-12 17:10:00,1,0,local
+2020,7,2179749,Boca Juniors,Arsenal de Sarandí,Miguel Ángel Russo,Sergio Rondina,540,2577,DARÍO HERRERA,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-12-12 19:20:00,1,1,empate
+2020,7,2179777,San Lorenzo,Talleres de Córdoba,Mariano Soso,Alexander Medina,2549,1071,FERNANDO ESPINOZA,NUEVO GASÓMETRO,2020-12-12 21:30:00,0,2,visitante
+2020,7,2179779,Aldosivi,Lanús,Guillermo Hoyos,,8621,2473,ANDRÉS MERLOS,JOSÉ MARÍA MINELLA,2020-12-13 17:10:00,1,2,visitante
+2020,7,2179778,Unión Santa Fe,Defensa y Justicia,Juan Manuel Azconzábal,Hernan Crespo,6374,8625,NAZARENO ARASA,15 DE ABRIL,2020-12-13 17:10:00,1,3,visitante
+2020,7,2179748,River Plate,Argentinos Juniors,Marcelo Gallardo,Diego Dabove,608,846,MAURO VIGLIANO,ESTADIO LIBERTADORES DE AMÉRICA,2020-12-13 19:20:00,1,1,empate
+2020,7,2179750,Huracán,Independiente,Israel Damonte,Lucas Pusineri,2578,1243,NICOLÁS LAMOLINA,TOMÁS ADOLFO DUCÓ,2020-12-13 21:30:00,3,2,local
+2020,7,2179780,Rosario Central,Patronato,Cristian González,Gustavo Álvarez,745,8628,ARIEL PENEL,GIGANTE DE ARROYITO,2020-12-14 17:10:00,4,0,local
+2020,7,2179783,Central Córdoba (Santiago del Estero),Godoy Cruz,Alexis Ferrero,Diego Martínez,10752,2834,JORGE BALIÑO,ALFREDO TERRERA,2020-12-14 19:20:00,1,1,empate
+2020,7,2179776,Atlético Tucumán,Banfield,Ricardo Zielinski,Javier Sanguinetti,4671,2451,FERNANDO RAPALLINI,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-12-14 21:30:00,0,2,visitante
+2020,8,2179753,Arsenal de Sarandí,Argentinos Juniors,Sergio Rondina,Diego Dabove,2577,846,HERNÁN MASTRÁNGELO,JULIO HUMBERTO GRONDONA,2020-12-18 21:10:00,0,1,visitante
+2020,8,2179788,Patronato,Aldosivi,Gabriel Graciani,Guillermo Hoyos,8628,8621,ANDRÉS CARLOS GARIANO,PRESBÍTERO BARTOLOMÉ GRELLA,2020-12-19 17:10:00,0,1,visitante
+2020,8,2179785,Godoy Cruz,Newell's Old Boys,Diego Martínez,Frank Kudelka,2834,1095,PATRICIO LOUSTAU,MALVINAS ARGENTINAS (MENDOZA),2020-12-19 19:10:00,0,3,visitante
+2020,8,2179772,San Lorenzo,Colón Santa Fe,Mariano Soso,Eduardo Domínguez,2549,1027,ANDRÉS MERLOS,NUEVO GASÓMETRO,2020-12-19 19:20:00,2,2,empate
+2020,8,2179773,Talleres de Córdoba,Atlético Tucumán,Alexander Medina,Ricardo Zielinski,1071,4671,NICOLÁS LAMOLINA,MARIO ALBERTO KEMPES,2020-12-19 21:30:00,1,1,empate
+2020,8,2179789,Lanús,Defensa y Justicia,Luis Zubeldía,Hernan Crespo,2473,8625,FERNANDO ESPINOZA,CIUDAD DE LANÚS,2020-12-20 17:10:00,1,1,empate
+2020,8,2179786,Estudiantes de La Plata,Racing Club,Leandro Desábato,Sebastián Beccacece,927,986,FERNANDO ECHENIQUE,CIUDAD DE LA PLATA,2020-12-20 19:20:00,1,1,empate
+2020,8,2179752,Independiente,Boca Juniors,Lucas Pusineri,Miguel Ángel Russo,1243,540,MAURO VIGLIANO,ESTADIO LIBERTADORES DE AMÉRICA,2020-12-20 19:20:00,1,2,visitante
+2020,8,2179751,Huracán,River Plate,Israel Damonte,Marcelo Gallardo,2578,608,GERMÁN DELFINO,TOMÁS ADOLFO DUCÓ,2020-12-20 21:30:00,1,3,visitante
+2020,8,2179784,Central Córdoba (Santiago del Estero),Vélez Sarsfield,Alexis Ferrero,Mauricio Pellegrino,10752,570,NÉSTOR FABIÁN PITANA,ALFREDO TERRERA,2020-12-21 19:20:00,0,2,visitante
+2020,8,2179787,Rosario Central,Unión Santa Fe,Cristian González,Juan Manuel Azconzábal,745,6374,PABLO ECHAVARRÍA,GIGANTE DE ARROYITO,2020-12-21 19:20:00,2,2,empate
+2020,8,2179774,Banfield,Gimnasia La Plata,Javier Sanguinetti,Leandro Martini,2451,1392,DARÍO HERRERA,FLORENCIO SOLÁ,2020-12-21 21:30:00,2,1,local
+2020,10,2179800,Rosario Central,Defensa y Justicia,Cristian González,Hernan Crespo,745,8625,FERNANDO ECHENIQUE,GIGANTE DE ARROYITO,2021-01-02 17:30:00,3,0,local
+2020,10,2179757,Boca Juniors,River Plate,Miguel Ángel Russo,Marcelo Gallardo,540,608,FERNANDO RAPALLINI,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2021-01-02 21:30:00,2,2,empate
+2020,10,2179759,Independiente,Arsenal de Sarandí,Lucas Pusineri,Sergio Rondina,1243,2577,NÉSTOR FABIÁN PITANA,ESTADIO LIBERTADORES DE AMÉRICA,2021-01-03 17:10:00,3,4,visitante
+2020,10,2179796,Newell's Old Boys,Vélez Sarsfield,Frank Kudelka,Mauricio Pellegrino,1095,570,DARÍO HERRERA,MARCELO BIELSA,2021-01-03 19:20:00,0,1,visitante
+2020,10,2179801,Patronato,Lanús,Iván Delfino,Luis Zubeldía,8628,2473,GERMÁN DELFINO,PRESBÍTERO BARTOLOMÉ GRELLA,2021-01-03 19:20:00,1,1,empate
+2020,10,2179797,Central Córdoba (Santiago del Estero),Racing Club,Alexis Ferrero,Sebastián Beccacece,10752,986,FERNANDO ESPINOZA,ALFREDO TERRERA,2021-01-03 21:30:00,2,2,empate
+2020,10,2179799,Aldosivi,Unión Santa Fe,Guillermo Hoyos,Juan Manuel Azconzábal,8621,6374,SILVIO TRUCCO,JOSÉ MARÍA MINELLA,2021-01-04 17:10:00,1,3,visitante
+2020,10,2179767,San Lorenzo,Gimnasia La Plata,Mariano Soso,Leandro Martini,2549,1392,NICOLÁS LAMOLINA,NUEVO GASÓMETRO,2021-01-04 19:20:00,1,2,visitante
+2020,10,2179768,Talleres de Córdoba,Banfield,Alexander Medina,Javier Sanguinetti,1071,2451,PATRICIO LOUSTAU,LA BOUTIQUE,2021-01-04 21:30:00,3,2,local
+2020,10,2179798,Godoy Cruz,Estudiantes de La Plata,Sebastián Méndez,Leandro Desábato,2834,927,HERNÁN MASTRÁNGELO,MALVINAS ARGENTINAS (MENDOZA),2021-01-05 19:20:00,1,0,local
+2020,10,2179758,Huracán,Argentinos Juniors,Israel Damonte,Diego Dabove,2578,846,ANDRÉS MERLOS,TOMÁS ADOLFO DUCÓ,2021-01-05 19:20:00,0,1,visitante
+2020,10,2179766,Atlético Tucumán,Colón Santa Fe,Ricardo Zielinski,Eduardo Domínguez,4671,1027,ANDRÉS CARLOS GARIANO,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2021-01-05 21:30:00,0,2,visitante
+2020,9,2179791,Defensa y Justicia,Patronato,Hernan Crespo,Gabriel Graciani,8625,8628,LEANDRO REY HILFER,NORBERTO TOMAGHELLO,2020-12-27 17:10:00,2,1,local
+2020,9,2179794,Racing Club,Godoy Cruz,Sebastián Beccacece,Diego Martínez,986,2834,NICOLÁS LAMOLINA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2020-12-27 17:10:00,6,1,local
+2020,9,2179756,Boca Juniors,Huracán,Miguel Ángel Russo,Israel Damonte,540,2578,ARIEL PENEL,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2020-12-27 19:20:00,3,0,local
+2020,9,2179754,River Plate,Arsenal de Sarandí,Marcelo Gallardo,Sergio Rondina,608,2577,FERNANDO ESPINOZA,ESTADIO LIBERTADORES DE AMÉRICA,2020-12-27 21:30:00,2,1,local
+2020,9,2179795,Newell's Old Boys,Central Córdoba (Santiago del Estero),Frank Kudelka,Alexis Ferrero,1095,10752,MAURO VIGLIANO,MARCELO BIELSA,2020-12-28 17:10:00,3,1,local
+2020,9,2179755,Argentinos Juniors,Independiente,Diego Dabove,Lucas Pusineri,846,1243,FERNANDO ECHENIQUE,DIEGO ARMANDO MARADONA,2020-12-28 19:20:00,0,2,visitante
+2020,9,2179793,Vélez Sarsfield,Estudiantes de La Plata,Mauricio Pellegrino,Leandro Desábato,570,927,JORGE BALIÑO,JOSÉ AMALFITANI,2020-12-28 19:20:00,2,3,visitante
+2020,9,2179769,Colón Santa Fe,Banfield,Eduardo Domínguez,Javier Sanguinetti,1027,2451,NÉSTOR FABIÁN PITANA,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2020-12-28 21:30:00,1,2,visitante
+2020,9,2179770,Gimnasia La Plata,Talleres de Córdoba,Leandro Martini,Alexander Medina,1392,1071,SILVIO TRUCCO,JUAN CARMELO ZERILLO (EL BOSQUE),2020-12-28 21:30:00,2,2,empate
+2020,9,2179792,Aldosivi,Rosario Central,Guillermo Hoyos,Cristian González,8621,745,FERNANDO RAPALLINI,JOSÉ MARÍA MINELLA,2020-12-29 17:10:00,0,1,visitante
+2020,9,2179790,Unión Santa Fe,Lanús,Juan Manuel Azconzábal,Luis Zubeldía,6374,2473,DARÍO HERRERA,15 DE ABRIL,2020-12-29 19:20:00,2,0,local
+2020,9,2179771,Atlético Tucumán,San Lorenzo,Ricardo Zielinski,Mariano Soso,4671,2549,PABLO ECHAVARRÍA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2020-12-29 21:30:00,1,3,visitante
+2020,12,2184382,Rosario Central,Vélez Sarsfield,Cristian González,Mauricio Pellegrino,745,570,PATRICIO LOUSTAU,SAN JUAN DEL BICENTENARIO,2021-01-16 22:10:00,1,3,visitante
+2020,11,2179803,Lanús,Rosario Central,Luis Zubeldía,Cristian González,2473,745,PABLO ECHAVARRÍA,CIUDAD DE LANÚS,2021-01-09 17:10:00,2,0,local
+2020,11,2179802,Unión Santa Fe,Patronato,Juan Manuel Azconzábal,Iván Delfino,6374,8628,ANDRÉS MERLOS,15 DE ABRIL,2021-01-09 17:10:00,1,2,visitante
+2020,11,2179807,Racing Club,Newell's Old Boys,Sebastián Beccacece,Frank Kudelka,986,1095,FERNANDO ECHENIQUE,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2021-01-09 19:20:00,3,1,local
+2020,11,2179805,Vélez Sarsfield,Godoy Cruz,Mauricio Pellegrino,Sebastián Méndez,570,2834,FACUNDO TELLO,JOSÉ AMALFITANI,2021-01-09 19:20:00,3,2,local
+2020,11,2179762,Argentinos Juniors,Boca Juniors,Diego Dabove,Miguel Ángel Russo,846,540,FERNANDO ESPINOZA,DIEGO ARMANDO MARADONA,2021-01-09 21:30:00,2,2,empate
+2020,11,2179760,River Plate,Independiente,Marcelo Gallardo,Fernando Berón,608,1243,DIEGO ABAL,ESTADIO LIBERTADORES DE AMÉRICA,2021-01-09 21:30:00,0,2,visitante
+2020,11,2179761,Arsenal de Sarandí,Huracán,Sergio Rondina,Israel Damonte,2577,2578,NAZARENO ARASA,JULIO HUMBERTO GRONDONA,2021-01-10 19:20:00,1,0,local
+2020,11,2179764,Banfield,San Lorenzo,Javier Sanguinetti,,2451,2549,FERNANDO RAPALLINI,FLORENCIO SOLÁ,2021-01-10 21:30:00,4,1,local
+2020,11,2179763,Colón Santa Fe,Talleres de Córdoba,Eduardo Domínguez,Alexander Medina,1027,1071,DARÍO HERRERA,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2021-01-10 21:30:00,1,2,visitante
+2020,11,2179765,Gimnasia La Plata,Atlético Tucumán,Leandro Martini,,1392,4671,PATRICIO LOUSTAU,JUAN CARMELO ZERILLO (EL BOSQUE),2021-01-10 21:30:00,0,1,visitante
+2020,11,2179806,Estudiantes de La Plata,Central Córdoba (Santiago del Estero),Leandro Desábato,Alexis Ferrero,927,10752,JORGE BROGGI,CIUDAD DE LA PLATA,2021-01-11 21:30:00,1,2,visitante
+2020,11,2179804,Defensa y Justicia,Aldosivi,Hernan Crespo,Favio Fernández,8625,8621,MAURO VIGLIANO,JULIO HUMBERTO GRONDONA,2021-01-14 17:45:00,4,4,empate
+2019,3,1078408,Argentinos Juniors,Banfield,Diego Dabove,Hernan Crespo,846,2451,ANDRÉS MERLOS,DIEGO ARMANDO MARADONA,2019-08-16 19:00:00,3,2,local
+2019,3,1078415,Talleres de Córdoba,Central Córdoba (Santiago del Estero),Alexander Medina,Gustavo Coleoni,1071,10752,NICOLÁS LAMOLINA,MARIO ALBERTO KEMPES,2019-08-16 21:10:00,1,1,empate
+2019,3,1078413,Newell's Old Boys,Unión Santa Fe,Frank Kudelka,Leonardo Madelón,1095,6374,ARIEL PENEL,MARCELO BIELSA,2019-08-17 15:30:00,2,0,local
+2019,3,1078407,San Lorenzo,Rosario Central,Juan Antonio Pizzi,Diego Cocca,2549,745,FERNANDO RAPALLINI,NUEVO GASÓMETRO,2019-08-17 17:45:00,2,2,empate
+2019,3,1078409,Racing Club,River Plate,Eduardo Coudet,Marcelo Gallardo,986,608,PATRICIO LOUSTAU,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-08-17 20:00:00,1,6,visitante
+2019,3,1078416,Patronato,Huracán,Mario Sciacqua,Juan Pablo Vojvoda,8628,2578,GERMÁN DELFINO,PRESBÍTERO BARTOLOMÉ GRELLA,2019-08-18 11:00:00,2,1,local
+2019,3,1078412,Defensa y Justicia,Arsenal de Sarandí,Mariano Soso,Sergio Rondina,8625,2577,FERNANDO ESPINOZA,NORBERTO TOMAGHELLO,2019-08-18 15:30:00,0,3,visitante
+2019,3,1078411,Lanús,Vélez Sarsfield,Luis Zubeldía,Gabriel Heinze,2473,570,FACUNDO TELLO,CIUDAD DE LANÚS,2019-08-18 17:45:00,3,1,local
+2019,3,1078406,Boca Juniors,Aldosivi,Gustavo Alfaro,Gustavo Álvarez,540,8621,MAURO VIGLIANO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-08-18 20:00:00,2,0,local
+2019,3,1078417,Atlético Tucumán,Godoy Cruz,Ricardo Zielinski,Lucas Bernardi,4671,2834,DARÍO HERRERA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-08-19 15:30:00,1,0,local
+2019,3,1078414,Colón Santa Fe,Gimnasia La Plata,Pablo Lavallén,Hernán Ortiz,1027,1392,JORGE BALIÑO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-08-19 17:45:00,2,1,local
+2019,3,1078410,Estudiantes de La Plata,Independiente,Gabriel Milito,Sebastián Beccacece,927,1243,NÉSTOR FABIÁN PITANA,CIUDAD DE LA PLATA,2019-08-19 20:00:00,3,0,local
+2019,2,1078394,Huracán,Colón Santa Fe,Juan Pablo Vojvoda,Pablo Lavallén,2578,1027,HERNÁN MASTRÁNGELO,TOMÁS ADOLFO DUCÓ,2019-08-02 21:00:00,2,0,local
+2019,2,1078395,Aldosivi,Argentinos Juniors,Gustavo Álvarez,Diego Dabove,8621,846,DIEGO ABAL,JOSÉ MARÍA MINELLA,2019-08-03 13:15:00,0,0,empate
+2019,2,1078396,Rosario Central,Talleres de Córdoba,Diego Cocca,Alexander Medina,745,1071,FACUNDO TELLO,GIGANTE DE ARROYITO,2019-08-03 15:30:00,1,0,local
+2019,2,1078397,Central Córdoba (Santiago del Estero),Atlético Tucumán,Gustavo Coleoni,Ricardo Zielinski,10752,4671,PABLO ECHAVARRÍA,ALFREDO TERRERA,2019-08-03 17:45:00,1,0,local
+2019,2,1078398,Vélez Sarsfield,Racing Club,Gabriel Heinze,Eduardo Coudet,570,986,NÉSTOR FABIÁN PITANA,JOSÉ AMALFITANI,2019-08-03 20:00:00,2,2,empate
+2019,2,1078399,Unión Santa Fe,Defensa y Justicia,Leonardo Madelón,Mariano Soso,6374,8625,DARÍO HERRERA,15 DE ABRIL,2019-08-04 11:00:00,2,1,local
+2019,2,1078400,Gimnasia La Plata,San Lorenzo,Hernán Ortiz,Juan Antonio Pizzi,1392,2549,FERNANDO ESPINOZA,JUAN CARMELO ZERILLO (EL BOSQUE),2019-08-04 13:15:00,0,1,visitante
+2019,2,1078401,Banfield,Estudiantes de La Plata,Hernan Crespo,Gabriel Milito,2451,927,NAZARENO ARASA,FLORENCIO SOLÁ,2019-08-04 15:30:00,1,0,local
+2019,2,1078402,River Plate,Lanús,Marcelo Gallardo,Luis Zubeldía,608,2473,GERMÁN DELFINO,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-08-04 17:45:00,3,0,local
+2019,2,1078403,Patronato,Boca Juniors,Mario Sciacqua,Gustavo Alfaro,8628,540,FERNANDO RAPALLINI,PRESBÍTERO BARTOLOMÉ GRELLA,2019-08-04 20:00:00,0,2,visitante
+2019,2,1078404,Godoy Cruz,Arsenal de Sarandí,Lucas Bernardi,Sergio Rondina,2834,2577,PATRICIO LOUSTAU,MALVINAS ARGENTINAS (MENDOZA),2019-08-05 21:10:00,0,2,visitante
+2019,2,1078405,Independiente,Newell's Old Boys,Fernando Berón,Frank Kudelka,1243,1095,MAURO VIGLIANO,ESTADIO LIBERTADORES DE AMÉRICA,2019-12-13 17:10:00,2,3,visitante
+2019,1,1078382,Racing Club,Unión Santa Fe,Eduardo Coudet,Leonardo Madelón,986,6374,NICOLÁS LAMOLINA,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-07-26 21:00:00,0,0,empate
+2019,1,1078383,Colón Santa Fe,Patronato,Pablo Lavallén,Mario Sciacqua,1027,8628,SILVIO TRUCCO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-07-27 13:15:00,0,1,visitante
+2019,1,1078384,San Lorenzo,Godoy Cruz,Juan Antonio Pizzi,Lucas Bernardi,2549,2834,ANDRÉS MERLOS,NUEVO GASÓMETRO,2019-07-27 15:30:00,3,2,local
+2019,1,1078385,Lanús,Gimnasia La Plata,Luis Zubeldía,Hernán Ortiz,2473,1392,DARÍO HERRERA,CIUDAD DE LANÚS,2019-07-27 17:45:00,1,1,empate
+2019,1,1078386,Argentinos Juniors,River Plate,Diego Dabove,Marcelo Gallardo,846,608,FERNANDO RAPALLINI,DIEGO ARMANDO MARADONA,2019-07-27 20:00:00,1,1,empate
+2019,1,1078387,Estudiantes de La Plata,Aldosivi,Gabriel Milito,Gustavo Álvarez,927,8621,FERNANDO ESPINOZA,CIUDAD DE LA PLATA,2019-07-28 11:00:00,1,0,local
+2019,1,1078388,Newell's Old Boys,Central Córdoba (Santiago del Estero),Frank Kudelka,Gustavo Coleoni,1095,10752,FACUNDO TELLO,MARCELO BIELSA,2019-07-28 13:15:00,2,0,local
+2019,1,1078389,Talleres de Córdoba,Vélez Sarsfield,Alexander Medina,Gabriel Heinze,1071,570,ARIEL PENEL,MARIO ALBERTO KEMPES,2019-07-28 15:30:00,1,0,local
+2019,1,1078390,Defensa y Justicia,Independiente,Mariano Soso,Sebastián Beccacece,8625,1243,PATRICIO LOUSTAU,NORBERTO TOMAGHELLO,2019-07-28 17:45:00,0,1,visitante
+2019,1,1078391,Boca Juniors,Huracán,Gustavo Alfaro,Juan Pablo Vojvoda,540,2578,DIEGO ABAL,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-07-28 20:00:00,0,0,empate
+2019,1,1078392,Arsenal de Sarandí,Banfield,Sergio Rondina,Hernan Crespo,2577,2451,HERNÁN MASTRÁNGELO,JULIO HUMBERTO GRONDONA,2019-07-29 19:00:00,1,0,local
+2019,1,1078393,Atlético Tucumán,Rosario Central,Ricardo Zielinski,Diego Cocca,4671,745,NÉSTOR FABIÁN PITANA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-07-29 21:10:00,1,2,visitante
+2019,4,1078424,Arsenal de Sarandí,San Lorenzo,Sergio Rondina,Juan Antonio Pizzi,2577,2549,FACUNDO TELLO,JULIO HUMBERTO GRONDONA,2019-08-23 21:00:00,0,2,visitante
+2019,4,1078422,Gimnasia La Plata,Defensa y Justicia,Hernán Ortiz,Mariano Soso,1392,8625,ANDRÉS MERLOS,JUAN CARMELO ZERILLO (EL BOSQUE),2019-08-24 13:15:00,0,1,visitante
+2019,4,1078420,Vélez Sarsfield,Newell's Old Boys,Gabriel Heinze,Frank Kudelka,570,1095,GERMÁN DELFINO,JOSÉ AMALFITANI,2019-08-24 15:30:00,3,1,local
+2019,4,1078427,Rosario Central,Patronato,Diego Cocca,Mario Sciacqua,745,8628,HERNÁN MASTRÁNGELO,GIGANTE DE ARROYITO,2019-08-24 17:45:00,1,1,empate
+2019,4,1078421,Independiente,Colón Santa Fe,Sebastián Beccacece,Pablo Lavallén,1243,1027,DIEGO ABAL,ESTADIO LIBERTADORES DE AMÉRICA,2019-08-24 20:00:00,2,0,local
+2019,4,1078429,Godoy Cruz,Estudiantes de La Plata,Javier Patalano,Gabriel Milito,2834,927,PABLO ECHAVARRÍA,MALVINAS ARGENTINAS (MENDOZA),2019-08-25 11:00:00,2,1,local
+2019,4,1078428,Unión Santa Fe,Lanús,Leonardo Madelón,Luis Zubeldía,6374,2473,FERNANDO ESPINOZA,15 DE ABRIL,2019-08-25 13:15:00,1,2,visitante
+2019,4,1078426,Central Córdoba (Santiago del Estero),Racing Club,Gustavo Coleoni,Eduardo Coudet,10752,986,MAURO VIGLIANO,ALFREDO TERRERA,2019-08-25 15:30:00,0,0,empate
+2019,4,1078418,River Plate,Talleres de Córdoba,Marcelo Gallardo,Alexander Medina,608,1071,NÉSTOR FABIÁN PITANA,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-08-25 17:45:00,0,1,visitante
+2019,4,1078423,Banfield,Boca Juniors,Hernan Crespo,Gustavo Alfaro,2451,540,FERNANDO ECHENIQUE,FLORENCIO SOLÁ,2019-08-25 20:00:00,0,1,visitante
+2019,4,1078425,Aldosivi,Atlético Tucumán,Gustavo Álvarez,Ricardo Zielinski,8621,4671,SILVIO TRUCCO,JOSÉ MARÍA MINELLA,2019-08-26 19:00:00,3,0,local
+2019,4,1078419,Huracán,Argentinos Juniors,Juan Pablo Vojvoda,Diego Dabove,2578,846,PATRICIO LOUSTAU,TOMÁS ADOLFO DUCÓ,2019-08-26 21:10:00,0,0,empate
+2019,5,1078435,Lanús,Central Córdoba (Santiago del Estero),Luis Zubeldía,Gustavo Coleoni,2473,10752,HERNÁN MASTRÁNGELO,CIUDAD DE LANÚS,2019-08-30 19:00:00,1,0,local
+2019,5,1078436,Defensa y Justicia,Banfield,Mariano Soso,Hernan Crespo,8625,2451,DARÍO HERRERA,NORBERTO TOMAGHELLO,2019-08-30 21:10:00,0,0,empate
+2019,5,1078434,Estudiantes de La Plata,Vélez Sarsfield,Gabriel Milito,Gabriel Heinze,927,570,PATRICIO LOUSTAU,CIUDAD DE LA PLATA,2019-08-30 21:10:00,0,1,visitante
+2019,5,1078432,Argentinos Juniors,Gimnasia La Plata,Diego Dabove,Hernán Ortiz,846,1392,FACUNDO TELLO,DIEGO ARMANDO MARADONA,2019-08-31 13:15:00,1,0,local
+2019,5,1078431,San Lorenzo,Unión Santa Fe,Juan Antonio Pizzi,Leonardo Madelón,2549,6374,NICOLÁS LAMOLINA,NUEVO GASÓMETRO,2019-08-31 15:30:00,2,1,local
+2019,5,1078440,Patronato,Independiente,Mario Sciacqua,Sebastián Beccacece,8628,1243,SILVIO TRUCCO,PRESBÍTERO BARTOLOMÉ GRELLA,2019-08-31 17:45:00,1,0,local
+2019,5,1078433,Racing Club,Godoy Cruz,Eduardo Coudet,Javier Patalano,986,2834,GERMÁN DELFINO,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-08-31 20:00:00,3,1,local
+2019,5,1078441,Atlético Tucumán,Arsenal de Sarandí,Ricardo Zielinski,Sergio Rondina,4671,2577,ARIEL PENEL,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-09-01 11:00:00,1,0,local
+2019,5,1078438,Colón Santa Fe,Rosario Central,Pablo Lavallén,Diego Cocca,1027,745,FERNANDO ESPINOZA,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-09-01 11:00:00,1,1,empate
+2019,5,1078437,Newell's Old Boys,Huracán,Frank Kudelka,Juan Pablo Vojvoda,1095,2578,NÉSTOR FABIÁN PITANA,MARCELO BIELSA,2019-09-01 13:15:00,4,1,local
+2019,5,1078439,Talleres de Córdoba,Aldosivi,Alexander Medina,Gustavo Álvarez,1071,8621,ANDRÉS MERLOS,MARIO ALBERTO KEMPES,2019-09-01 13:15:00,2,1,local
+2019,5,1078430,River Plate,Boca Juniors,Marcelo Gallardo,Gustavo Alfaro,608,540,FERNANDO RAPALLINI,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-09-01 17:00:00,0,0,empate
+2019,6,1078448,Arsenal de Sarandí,Unión Santa Fe,Sergio Rondina,Leonardo Madelón,2577,6374,JORGE BALIÑO,JULIO HUMBERTO GRONDONA,2019-09-14 13:15:00,4,1,local
+2019,6,1078450,Central Córdoba (Santiago del Estero),Defensa y Justicia,Gustavo Coleoni,Mariano Soso,10752,8625,FERNANDO ESPINOZA,ALFREDO TERRERA,2019-09-14 15:30:00,1,2,visitante
+2019,6,1078453,Godoy Cruz,Argentinos Juniors,Javier Patalano,Diego Dabove,2834,846,NÉSTOR FABIÁN PITANA,MALVINAS ARGENTINAS (MENDOZA),2019-09-14 15:30:00,0,1,visitante
+2019,6,1078452,Colón Santa Fe,San Lorenzo,Pablo Lavallén,Juan Antonio Pizzi,1027,2549,FERNANDO ECHENIQUE,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-09-14 17:45:00,2,1,local
+2019,6,1078443,Huracán,River Plate,Juan Pablo Vojvoda,Marcelo Gallardo,2578,608,NICOLÁS LAMOLINA,TOMÁS ADOLFO DUCÓ,2019-09-14 20:00:00,0,4,visitante
+2019,6,1078446,Gimnasia La Plata,Racing Club,Diego Maradona,Eduardo Coudet,1392,986,DIEGO ABAL,JUAN CARMELO ZERILLO (EL BOSQUE),2019-09-15 11:00:00,1,2,visitante
+2019,6,1078447,Banfield,Talleres de Córdoba,Julio César Falcioni,Alexander Medina,2451,1071,ARIEL PENEL,FLORENCIO SOLÁ,2019-09-15 13:15:00,0,1,visitante
+2019,6,1078451,Rosario Central,Newell's Old Boys,Diego Cocca,Frank Kudelka,745,1095,ANDRÉS MERLOS,GIGANTE DE ARROYITO,2019-09-15 15:30:00,1,1,empate
+2019,6,1078445,Independiente,Lanús,Sebastián Beccacece,Luis Zubeldía,1243,2473,MAURO VIGLIANO,ESTADIO LIBERTADORES DE AMÉRICA,2019-09-15 17:45:00,2,2,empate
+2019,6,1078442,Boca Juniors,Estudiantes de La Plata,Gustavo Alfaro,Gabriel Milito,540,927,FACUNDO TELLO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-09-15 20:00:00,1,0,local
+2019,6,1078449,Aldosivi,Patronato,Gustavo Álvarez,Mario Sciacqua,8621,8628,PATRICIO LOUSTAU,JOSÉ MARÍA MINELLA,2019-09-16 19:00:00,1,1,empate
+2019,6,1078444,Vélez Sarsfield,Atlético Tucumán,Gabriel Heinze,Ricardo Zielinski,570,4671,DARÍO HERRERA,JOSÉ AMALFITANI,2019-09-16 21:10:00,1,0,local
+2019,8,1078473,Aldosivi,Unión Santa Fe,,Leonardo Madelón,8621,6374,NÉSTOR FABIÁN PITANA,JOSÉ MARÍA MINELLA,2019-09-27 19:00:00,1,2,visitante
+2019,8,1078477,Patronato,Lanús,Mario Sciacqua,Luis Zubeldía,8628,2473,DAMIÁN ESPINOZA,PRESBÍTERO BARTOLOMÉ GRELLA,2019-09-27 21:10:00,1,1,empate
+2019,8,1078472,Arsenal de Sarandí,Estudiantes de La Plata,Sergio Rondina,Gabriel Milito,2577,927,LEANDRO REY HILFER,JULIO HUMBERTO GRONDONA,2019-09-28 15:30:00,3,0,local
+2019,8,1078470,Gimnasia La Plata,River Plate,Diego Maradona,Marcelo Gallardo,1392,608,PATRICIO LOUSTAU,JUAN CARMELO ZERILLO (EL BOSQUE),2019-09-28 17:45:00,0,2,visitante
+2019,8,1078466,Boca Juniors,Newell's Old Boys,Gustavo Alfaro,Frank Kudelka,540,1095,DARÍO HERRERA,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-09-28 20:00:00,1,1,empate
+2019,8,1078471,Banfield,San Lorenzo,Julio César Falcioni,Juan Antonio Pizzi,2451,2549,FACUNDO TELLO,FLORENCIO SOLÁ,2019-09-29 11:00:00,0,1,visitante
+2019,8,1078467,Huracán,Atlético Tucumán,Néstor Apuzzo,Ricardo Zielinski,2578,4671,ARIEL PENEL,TOMÁS ADOLFO DUCÓ,2019-09-29 13:15:00,0,0,empate
+2019,8,1078468,Vélez Sarsfield,Defensa y Justicia,Gabriel Heinze,Mariano Soso,570,8625,NICOLÁS LAMOLINA,JOSÉ AMALFITANI,2019-09-29 15:30:00,0,1,visitante
+2019,8,1078475,Rosario Central,Racing Club,Diego Cocca,Eduardo Coudet,745,986,JORGE BALIÑO,GIGANTE DE ARROYITO,2019-09-29 17:45:00,1,1,empate
+2019,8,1078469,Independiente,Talleres de Córdoba,Sebastián Beccacece,Alexander Medina,1243,1071,DIEGO ABAL,ESTADIO LIBERTADORES DE AMÉRICA,2019-09-29 20:00:00,3,2,local
+2019,8,1078474,Central Córdoba (Santiago del Estero),Godoy Cruz,Gustavo Coleoni,Daniel Oldrá,10752,2834,PABLO ECHAVARRÍA,ALFREDO TERRERA,2019-09-30 19:00:00,1,0,local
+2019,8,1078476,Colón Santa Fe,Argentinos Juniors,Pablo Lavallén,Diego Dabove,1027,846,YAEL FALCÓN PÉREZ,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-09-30 21:10:00,1,0,local
+2019,7,1078462,Unión Santa Fe,Rosario Central,Leonardo Madelón,Diego Cocca,6374,745,PABLO ECHAVARRÍA,15 DE ABRIL,2019-09-20 19:00:00,0,0,empate
+2019,7,1078456,Argentinos Juniors,Central Córdoba (Santiago del Estero),Diego Dabove,Gustavo Coleoni,846,10752,FERNANDO ECHENIQUE,DIEGO ARMANDO MARADONA,2019-09-20 21:10:00,3,1,local
+2019,7,1078458,Estudiantes de La Plata,Patronato,Gabriel Milito,Mario Sciacqua,927,8628,GERMÁN DELFINO,CIUDAD DE LA PLATA,2019-09-21 13:15:00,1,0,local
+2019,7,1078460,Defensa y Justicia,Huracán,Mariano Soso,Néstor Apuzzo,8625,2578,SILVIO TRUCCO,NORBERTO TOMAGHELLO,2019-09-21 15:30:00,0,1,visitante
+2019,7,1078455,San Lorenzo,Boca Juniors,Juan Antonio Pizzi,Gustavo Alfaro,2549,540,MAURO VIGLIANO,NUEVO GASÓMETRO,2019-09-21 17:45:00,0,2,visitante
+2019,7,1078464,Atlético Tucumán,Independiente,Ricardo Zielinski,Sebastián Beccacece,4671,1243,NÉSTOR FABIÁN PITANA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-09-21 20:00:00,0,1,visitante
+2019,7,1078461,Newell's Old Boys,Aldosivi,Frank Kudelka,Gustavo Álvarez,1095,8621,FACUNDO TELLO,MARCELO BIELSA,2019-09-22 11:00:00,2,0,local
+2019,7,1078465,Godoy Cruz,Banfield,Javier Patalano,Julio César Falcioni,2834,2451,PABLO DÓVALO,MALVINAS ARGENTINAS (MENDOZA),2019-09-22 13:15:00,0,2,visitante
+2019,7,1078459,Lanús,Colón Santa Fe,Luis Zubeldía,Pablo Lavallén,2473,1027,DARÍO HERRERA,CIUDAD DE LANÚS,2019-09-22 15:30:00,3,2,local
+2019,7,1078457,Racing Club,Arsenal de Sarandí,Eduardo Coudet,Sergio Rondina,986,2577,PATRICIO LOUSTAU,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-09-22 17:45:00,2,1,local
+2019,7,1078454,River Plate,Vélez Sarsfield,Marcelo Gallardo,Gabriel Heinze,608,570,ANDRÉS MERLOS,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-09-22 20:00:00,1,2,visitante
+2019,7,1078463,Talleres de Córdoba,Gimnasia La Plata,Alexander Medina,Diego Maradona,1071,1392,HERNÁN MASTRÁNGELO,MARIO ALBERTO KEMPES,2019-09-23 21:00:00,2,1,local
+2019,9,1078486,Newell's Old Boys,Banfield,Frank Kudelka,Julio César Falcioni,1095,2451,NICOLÁS LAMOLINA,MARCELO BIELSA,2019-10-04 19:00:00,0,0,empate
+2019,9,1078488,Atlético Tucumán,Talleres de Córdoba,Ricardo Zielinski,Alexander Medina,4671,1071,NAZARENO ARASA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-10-04 21:10:00,2,1,local
+2019,9,1078481,Argentinos Juniors,Arsenal de Sarandí,Diego Dabove,Sergio Rondina,846,2577,FERNANDO ESPINOZA,DIEGO ARMANDO MARADONA,2019-10-05 13:15:00,2,1,local
+2019,9,1078489,Godoy Cruz,Gimnasia La Plata,Daniel Oldrá,Diego Maradona,2834,1392,DARÍO HERRERA,MALVINAS ARGENTINAS (MENDOZA),2019-10-05 13:15:00,2,4,visitante
+2019,9,1078479,San Lorenzo,Central Córdoba (Santiago del Estero),Juan Antonio Pizzi,Gustavo Coleoni,2549,10752,NÉSTOR FABIÁN PITANA,NUEVO GASÓMETRO,2019-10-05 15:30:00,1,4,visitante
+2019,9,1078483,Estudiantes de La Plata,Huracán,Gabriel Milito,Néstor Apuzzo,927,2578,FACUNDO TELLO,CIUDAD DE LA PLATA,2019-10-05 17:45:00,0,0,empate
+2019,9,1078482,Racing Club,Aldosivi,Eduardo Coudet,Fabio Radaelli,986,8621,MAURO VIGLIANO,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-10-05 20:00:00,2,0,local
+2019,9,1078480,Vélez Sarsfield,Independiente,Gabriel Heinze,Sebastián Beccacece,570,1243,GERMÁN DELFINO,JOSÉ AMALFITANI,2019-10-06 11:00:00,2,0,local
+2019,9,1078484,Lanús,Rosario Central,Luis Zubeldía,Diego Cocca,2473,745,DIEGO ABAL,CIUDAD DE LANÚS,2019-10-06 13:15:00,1,1,empate
+2019,9,1078487,Unión Santa Fe,Colón Santa Fe,Leonardo Madelón,Pablo Lavallén,6374,1027,PATRICIO LOUSTAU,15 DE ABRIL,2019-10-06 15:30:00,1,0,local
+2019,9,1078478,River Plate,Patronato,Marcelo Gallardo,Mario Sciacqua,608,8628,FERNANDO ECHENIQUE,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-10-06 17:45:00,2,0,local
+2019,9,1078485,Defensa y Justicia,Boca Juniors,Mariano Soso,Gustavo Alfaro,8625,540,PABLO ECHAVARRÍA,NORBERTO TOMAGHELLO,2019-10-06 20:00:00,0,1,visitante
+2019,11,1078513,Godoy Cruz,Aldosivi,Daniel Oldrá,Guillermo Hoyos,2834,8621,FACUNDO TELLO,MALVINAS ARGENTINAS (MENDOZA),2019-10-29 15:00:00,3,2,local
+2019,11,1078507,Estudiantes de La Plata,Rosario Central,Gabriel Milito,Diego Cocca,927,745,PATRICIO LOUSTAU,CIUDAD DE LA PLATA,2019-10-29 17:00:00,3,0,local
+2019,11,1078512,Atlético Tucumán,Patronato,Ricardo Zielinski,Mario Sciacqua,4671,8628,FERNANDO ESPINOZA,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-10-29 19:10:00,2,0,local
+2019,11,1078510,Newell's Old Boys,Gimnasia La Plata,Frank Kudelka,Diego Maradona,1095,1392,FERNANDO ECHENIQUE,MARCELO BIELSA,2019-10-29 19:10:00,0,4,visitante
+2019,11,1078502,River Plate,Colón Santa Fe,Marcelo Gallardo,Pablo Lavallén,608,1027,NICOLÁS LAMOLINA,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-10-29 21:20:00,2,1,local
+2019,11,1078505,Argentinos Juniors,Talleres de Córdoba,Diego Dabove,Alexander Medina,846,1071,ANDRÉS MERLOS,DIEGO ARMANDO MARADONA,2019-10-30 15:00:00,1,0,local
+2019,11,1078503,San Lorenzo,Defensa y Justicia,Juan Antonio Pizzi,Mariano Soso,2549,8625,DARÍO HERRERA,NUEVO GASÓMETRO,2019-10-30 17:00:00,1,3,visitante
+2019,11,1078511,Unión Santa Fe,Independiente,Leonardo Madelón,Fernando Berón,6374,1243,PABLO ECHAVARRÍA,15 DE ABRIL,2019-10-30 19:10:00,2,2,empate
+2019,11,1078506,Racing Club,Banfield,Eduardo Coudet,Julio César Falcioni,986,2451,DIEGO ABAL,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-10-30 21:20:00,0,0,empate
+2019,11,1078509,Arsenal de Sarandí,Central Córdoba (Santiago del Estero),Sergio Rondina,Gustavo Coleoni,2577,10752,MAURO VIGLIANO,JULIO HUMBERTO GRONDONA,2019-10-31 17:00:00,2,2,empate
+2019,11,1078504,Vélez Sarsfield,Huracán,Gabriel Heinze,Néstor Apuzzo,570,2578,NÉSTOR FABIÁN PITANA,JOSÉ AMALFITANI,2019-10-31 19:10:00,0,0,empate
+2019,11,1078508,Lanús,Boca Juniors,Luis Zubeldía,Gustavo Alfaro,2473,540,FERNANDO RAPALLINI,CIUDAD DE LANÚS,2019-10-31 21:20:00,2,1,local
+2019,10,1078495,Arsenal de Sarandí,River Plate,Sergio Rondina,Marcelo Gallardo,2577,608,FACUNDO TELLO,JULIO HUMBERTO GRONDONA,2019-10-18 19:00:00,3,3,empate
+2019,10,1078490,Boca Juniors,Racing Club,Gustavo Alfaro,Eduardo Coudet,540,986,FERNANDO ECHENIQUE,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-10-18 21:10:00,0,1,visitante
+2019,10,1078494,Banfield,Atlético Tucumán,Julio César Falcioni,Ricardo Zielinski,2451,4671,PABLO ECHAVARRÍA,FLORENCIO SOLÁ,2019-10-19 13:15:00,1,2,visitante
+2019,10,1078492,Independiente,Argentinos Juniors,Sebastián Beccacece,Diego Dabove,1243,846,NICOLÁS LAMOLINA,ESTADIO LIBERTADORES DE AMÉRICA,2019-10-19 15:30:00,0,1,visitante
+2019,10,1078501,Patronato,Newell's Old Boys,Mario Sciacqua,Frank Kudelka,8628,1095,FERNANDO RAPALLINI,PRESBÍTERO BARTOLOMÉ GRELLA,2019-10-19 17:45:00,1,3,visitante
+2019,10,1078500,Talleres de Córdoba,Lanús,Alexander Medina,Luis Zubeldía,1071,2473,MAURO VIGLIANO,MARIO ALBERTO KEMPES,2019-10-19 20:00:00,2,4,visitante
+2019,10,1078496,Aldosivi,Defensa y Justicia,Guillermo Hoyos,Mariano Soso,8621,8625,HERNÁN MASTRÁNGELO,JOSÉ MARÍA MINELLA,2019-10-20 11:00:00,1,0,local
+2019,10,1078493,Gimnasia La Plata,Unión Santa Fe,Diego Maradona,Leonardo Madelón,1392,6374,ANDRÉS MERLOS,JUAN CARMELO ZERILLO (EL BOSQUE),2019-10-20 13:15:00,0,1,visitante
+2019,10,1078491,Huracán,San Lorenzo,Néstor Apuzzo,Juan Antonio Pizzi,2578,2549,FERNANDO ESPINOZA,TOMÁS ADOLFO DUCÓ,2019-10-20 15:30:00,2,0,local
+2019,10,1078498,Rosario Central,Vélez Sarsfield,Diego Cocca,Gabriel Heinze,745,570,ARIEL PENEL,GIGANTE DE ARROYITO,2019-10-20 17:45:00,0,1,visitante
+2019,10,1078497,Central Córdoba (Santiago del Estero),Estudiantes de La Plata,Gustavo Coleoni,Gabriel Milito,10752,927,DARÍO HERRERA,ALFREDO TERRERA,2019-10-21 19:00:00,0,1,visitante
+2019,10,1078499,Colón Santa Fe,Godoy Cruz,Pablo Lavallén,Daniel Oldrá,1027,2834,LUCAS COMESAÑA,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-10-21 21:20:00,2,1,local
+2019,12,1078523,Colón Santa Fe,Atlético Tucumán,Pablo Lavallén,Ricardo Zielinski,1027,4671,JORGE BALIÑO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-11-02 13:15:00,0,2,visitante
+2019,12,1078517,Gimnasia La Plata,Estudiantes de La Plata,Diego Maradona,Gabriel Milito,1392,927,NÉSTOR FABIÁN PITANA,JUAN CARMELO ZERILLO (EL BOSQUE),2019-11-02 15:30:00,0,1,visitante
+2019,12,1078522,Rosario Central,Godoy Cruz,Diego Cocca,Daniel Oldrá,745,2834,HERNÁN MASTRÁNGELO,GIGANTE DE ARROYITO,2019-11-02 17:45:00,5,2,local
+2019,12,1078520,Aldosivi,River Plate,Guillermo Hoyos,Marcelo Gallardo,8621,608,FERNANDO RAPALLINI,JOSÉ MARÍA MINELLA,2019-11-02 20:00:00,1,2,visitante
+2019,12,1078514,Boca Juniors,Arsenal de Sarandí,Gustavo Alfaro,Sergio Rondina,540,2577,PABLO ECHAVARRÍA,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-11-03 11:00:00,5,1,local
+2019,12,1078518,Banfield,Unión Santa Fe,Julio César Falcioni,Leonardo Madelón,2451,6374,DARÍO HERRERA,FLORENCIO SOLÁ,2019-11-03 13:15:00,3,3,empate
+2019,12,1078524,Talleres de Córdoba,Newell's Old Boys,Alexander Medina,Frank Kudelka,1071,1095,ARIEL PENEL,MARIO ALBERTO KEMPES,2019-11-03 15:30:00,1,0,local
+2019,12,1078525,Patronato,Racing Club,Mario Sciacqua,Eduardo Coudet,8628,986,FACUNDO TELLO,PRESBÍTERO BARTOLOMÉ GRELLA,2019-11-03 17:45:00,1,1,empate
+2019,12,1078516,Independiente,San Lorenzo,Fernando Berón,Diego Monarriz,1243,2549,PATRICIO LOUSTAU,ESTADIO LIBERTADORES DE AMÉRICA,2019-11-03 20:00:00,2,1,local
+2019,12,1078519,Defensa y Justicia,Argentinos Juniors,Mariano Soso,Diego Dabove,8625,846,MAURO VIGLIANO,NORBERTO TOMAGHELLO,2019-11-04 19:00:00,0,0,empate
+2019,12,1078521,Central Córdoba (Santiago del Estero),Vélez Sarsfield,Gustavo Coleoni,Gabriel Heinze,10752,570,SILVIO TRUCCO,ALFREDO TERRERA,2019-11-04 21:10:00,0,0,empate
+2019,12,1078515,Huracán,Lanús,Néstor Apuzzo,Luis Zubeldía,2578,2473,NICOLÁS LAMOLINA,TOMÁS ADOLFO DUCÓ,2019-11-04 21:10:00,0,1,visitante
+2019,13,1078530,Estudiantes de La Plata,Talleres de Córdoba,Gabriel Milito,Alexander Medina,927,1071,FERNANDO ESPINOZA,CIUDAD DE LA PLATA,2019-11-08 19:00:00,1,0,local
+2019,13,1078536,Unión Santa Fe,Atlético Tucumán,Leonardo Madelón,Ricardo Zielinski,6374,4671,NÉSTOR FABIÁN PITANA,15 DE ABRIL,2019-11-08 21:10:00,0,1,visitante
+2019,13,1078531,Lanús,Banfield,Luis Zubeldía,Julio César Falcioni,2473,2451,FACUNDO TELLO,CIUDAD DE LANÚS,2019-11-09 15:30:00,0,1,visitante
+2019,13,1078527,San Lorenzo,Argentinos Juniors,Diego Monarriz,Diego Dabove,2549,846,NICOLÁS LAMOLINA,NUEVO GASÓMETRO,2019-11-09 17:45:00,3,0,local
+2019,13,1078537,Godoy Cruz,Independiente,Daniel Oldrá,Fernando Berón,2834,1243,ARIEL PENEL,MALVINAS ARGENTINAS (MENDOZA),2019-11-09 20:00:00,1,2,visitante
+2019,13,1078534,Central Córdoba (Santiago del Estero),Patronato,Gustavo Coleoni,Mario Sciacqua,10752,8628,ANDRÉS MERLOS,ALFREDO TERRERA,2019-11-09 21:10:00,3,2,local
+2019,13,1078526,River Plate,Rosario Central,Marcelo Gallardo,Diego Cocca,608,745,FERNANDO ECHENIQUE,ESTADIO MONUMENTAL ANTONIO VESPUCIO LIBERTI,2019-11-10 11:00:00,0,1,visitante
+2019,13,1078533,Aldosivi,Gimnasia La Plata,Guillermo Hoyos,Diego Maradona,8621,1392,DARÍO HERRERA,JOSÉ MARÍA MINELLA,2019-11-10 13:15:00,0,3,visitante
+2019,13,1078535,Newell's Old Boys,Defensa y Justicia,Frank Kudelka,Mariano Soso,1095,8625,DIEGO ABAL,MARCELO BIELSA,2019-11-10 15:30:00,2,0,local
+2019,13,1078529,Racing Club,Huracán,Eduardo Coudet,Néstor Apuzzo,986,2578,FERNANDO RAPALLINI,PRESIDENTE PERÓN (CILINDRO DE AVELLANEDA),2019-11-10 17:45:00,1,0,local
+2019,13,1078528,Vélez Sarsfield,Boca Juniors,Gabriel Heinze,Gustavo Alfaro,570,540,PATRICIO LOUSTAU,JOSÉ AMALFITANI,2019-11-10 20:00:00,0,0,empate
+2019,13,1078532,Arsenal de Sarandí,Colón Santa Fe,Sergio Rondina,,2577,1027,ANDRÉS MERLOS,JULIO HUMBERTO GRONDONA,2019-12-12 21:00:00,2,1,local
+2019,14,1078544,Defensa y Justicia,Lanús,Mariano Soso,Luis Zubeldía,8625,2473,FERNANDO ESPINOZA,NORBERTO TOMAGHELLO,2019-11-23 19:40:00,2,0,local
+2019,14,1078539,Huracán,Central Córdoba (Santiago del Estero),Néstor Apuzzo,Gustavo Coleoni,2578,10752,DARÍO HERRERA,TOMÁS ADOLFO DUCÓ,2019-11-23 19:40:00,1,1,empate
+2019,14,1078549,Atlético Tucumán,San Lorenzo,Ricardo Zielinski,Diego Monarriz,4671,2549,YAEL FALCÓN PÉREZ,MONUMENTAL PRESIDENTE JOSÉ FIERRO,2019-11-23 21:45:00,2,2,empate
+2019,14,1078538,Boca Juniors,Unión Santa Fe,Gustavo Alfaro,Leonardo Madelón,540,6374,FACUNDO TELLO,ALBERTO JOSÉ ARMANDO (LA BOMBONERA),2019-11-24 17:10:00,2,0,local
+2019,14,1078543,Banfield,Vélez Sarsfield,Julio César Falcioni,Gabriel Heinze,2451,570,HERNÁN MASTRÁNGELO,FLORENCIO SOLÁ,2019-11-24 19:40:00,1,0,local
+2019,14,1078542,Gimnasia La Plata,Arsenal de Sarandí,Diego Maradona,Sergio Rondina,1392,2577,FERNANDO ECHENIQUE,JUAN CARMELO ZERILLO (EL BOSQUE),2019-11-24 19:40:00,0,1,visitante
+2019,14,1078547,Talleres de Córdoba,Racing Club,Alexander Medina,Eduardo Coudet,1071,986,NÉSTOR FABIÁN PITANA,MARIO ALBERTO KEMPES,2019-11-24 21:45:00,3,3,empate
+2019,14,1078546,Colón Santa Fe,Estudiantes de La Plata,Pablo Lavallén,Gabriel Milito,1027,927,GERMÁN DELFINO,BRIGADIER GRAL. ESTANISLAO LÓPEZ,2019-11-25 19:00:00,3,2,local
+2019,14,1078548,Patronato,Godoy Cruz,Mario Sciacqua,Daniel Oldrá,8628,2834,FERNANDO RAPALLINI,PRESBÍTERO BARTOLOMÉ GRELLA,2019-11-25 19:00:00,0,2,visitante
+2019,14,1078540,Argentinos Juniors,Newell's Old Boys,Diego Dabove,Frank Kudelka,846,1095,SILVIO TRUCCO,DIEGO ARMANDO MARADONA,2019-11-25 21:10:00,1,0,local
+2019,14,1078545,Rosario Central,Aldosivi,Diego Cocca,Guillermo Hoyos,745,8621,PATRICIO LOUSTAU,GIGANTE DE ARROYITO,2019-11-25 21:10:00,5,1,local
+2019,14,1078541,Independiente,River Plate,Lucas Pusineri,Marcelo Gallardo,1243,608,FERNANDO RAPALLINI,ESTADIO LIBERTADORES DE AMÉRICA,2020-01-19 19:10:00,1,2,visitante
